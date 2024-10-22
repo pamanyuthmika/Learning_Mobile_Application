@@ -1,0 +1,23 @@
+<resources>
+    <string name="nxt">Next</string>
+    <string name="mntp">LEARN HUB</string>
+    <string name="sndtp">Learning center</string>
+    <string name="lgtp">Welcome back!</string>
+    <string name="lgtpse">Glad to see you</string>
+    <string name="lgtpth">Again...</string>
+    <string name="hmtp">BEST PARTH FOR EDUCATION</string>
+    <string name="video">Watch Videos</string>
+    <string name="su1">Bio</string>
+    <string name="sub2">physics</string>
+    <string name="sub3">chemistry</string>
+    <string name="quizess">Quizess</string>
+    <string name="mn">Ready to Learn?\nGet started with easy and fun lessons...</string>
+    <string name="pwdhnt">Password</string>
+    <string name="ushnt">UserName</string>
+    <string name="un">Enter UserName</string>
+    <string name="pw">Enter Password</string>
+    <string name="lgn">Login</string>
+    <string name="lgut">Logout</string>
+    <string name="hm">Home</string>
+
+</resources>
